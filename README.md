@@ -1,5 +1,7 @@
 # City App Schema - Standardisierte Beschreibung von Smart City Anwendungen
 
+**[🇬🇧 English Version](README_EN.md)**
+
 Dieses Repository stellt ein standardisiertes Schema zur Beschreibung von City Apps und ihren Modulen bereit. Es wurde vom Fraunhofer-Institut für Experimentelles Software Engineering (IESE) im Rahmen des Modellprojekte Smart Cities (MPSC) Programms entwickelt und dient der Förderung von Transparenz, Interoperabilität und Zusammenarbeit zwischen Kommunen.
 
 ## 🎯 Zielsetzung
